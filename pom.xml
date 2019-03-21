@@ -20,7 +20,7 @@
     <parent>
         <groupId>com.vnomicscorp</groupId>
         <artifactId>vnomics-parent-pom</artifactId>
-        <version>1.12.0</version>
+        <version>1.14.0</version>
     </parent>
     <!--
     Detailed information how to contribute: https://flywaydb.org/documentation/contribute/code/
